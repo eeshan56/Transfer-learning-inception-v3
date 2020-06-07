@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import numpy as np
 
-label_map = {'butterfly' : 0, 'cat' : 1, 'chicken' : 2, 'cow' : 3, 'dog' : 4, 'elephant' : 5, 'horse' : 6, 'sheep' : 7, 'squirrel' : 8, 'spider' : 9}
+label_map = {'butterfly' : 0, 'cat' : 1, 'chicken' : 2, 'cow' : 3, 'dog' : 4, 'elephant' : 5, 'horse' : 6, 'sheep' : 7, 'spider' : 8, 'squirrel' : 9}
 
 def display_img(image_path):
 	img = mpimg.imread(image_path)
