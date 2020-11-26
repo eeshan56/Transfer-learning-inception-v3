@@ -30,7 +30,7 @@ python app.py
 ```
 ## Dataset:
 
-The dataset is of 10 types of animals: butterflies, cats, chickens, cows, dogs, elephants, horses, sheeps, squirrels and spiders. The dataset can be downloaded from the following link: https://www.kaggle.com/alessiocorrado99/animals10
+The dataset is of 10 types of animals: butterflies, cats, chickens, cows, dogs, elephants, horses, sheep, squirrels and spiders. The dataset can be downloaded from the following link: https://www.kaggle.com/alessiocorrado99/animals10
 
 ### Once downloaded, extract the dataset
 
